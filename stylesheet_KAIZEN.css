@@ -10,6 +10,13 @@
   display:flex;
 }
 
+img{
+  background-color:white;
+  text-align:right;
+  width:80%;
+  height:80%;
+}
+
 .borderline1{
   background-color:black;
   height:5px;
