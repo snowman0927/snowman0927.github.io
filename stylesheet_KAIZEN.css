@@ -1,7 +1,20 @@
 .header{
-  font-family:メイリオ
+  font-family:"メイリオ";
   font-size:40px;
   background-color:#FFFFF0;
   height:100px;
   vertical-align:middle;
+}
+
+.borderline1{
+  background-color:#B0C4DE;
+  height:5px;
+}
+.borderline2{
+  background-color:#FFFFF0;
+  height:1px;
+}
+.borderline3{
+  background-color:#B0C4DE;
+  height:2px
 }
