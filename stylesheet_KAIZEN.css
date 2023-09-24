@@ -6,12 +6,13 @@
   background-color:#50687b;
   height:70px;
   text-align:left;
-  padding:30px 0px 0px 10px;
+  padding:20px 0px 20px 10px;
+  display:flex;
 }
 
 .borderline1{
   background-color:black;
-  height:3.5px;
+  height:5px;
 }
 .borderline2{
   background-color:#50687b;
@@ -19,5 +20,5 @@
 }
 .borderline3{
   background-color:black;
-  height:2px;
+  height:3px;
 }
