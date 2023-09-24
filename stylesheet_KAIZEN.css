@@ -12,6 +12,9 @@
 
 img{
   text-align:right;
+  filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%);
+  margin-right: 0;
+ 　　margin-left: auto;
   }
 
 .borderline1{
