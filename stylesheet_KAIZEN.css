@@ -2,21 +2,21 @@
   font-family:Meiryo;
   font-size:40px;
   font-weight:bold;
-  background-color:#EEEEEE;
+  background-color:#50687b;
   height:70px;
   text-align:left;
   padding:20px 15px;
 }
 
 .borderline1{
-  background-color:#0099FF;
+  background-color:white;
   height:4px;
 }
 .borderline2{
-  background-color:#EEEEEE;
+  background-color:#50687b;
   height:1px;
 }
 .borderline3{
-  background-color:#0099FF;
+  background-color:white;
   height:2px;
 }
