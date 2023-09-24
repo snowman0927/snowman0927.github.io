@@ -1,14 +1,16 @@
 .header{
-  font-family:"メイリオ";
+  font-family:Meiryo;
   font-size:40px;
+  font-weight:bold;
   background-color:#FFFFF0;
-  height:100px;
-  vertical-align:middle;
+  height:70px;
+  text-align:left;
+  padding:15px 15px;
 }
 
 .borderline1{
   background-color:#B0C4DE;
-  height:5px;
+  height:4px;
 }
 .borderline2{
   background-color:#FFFFF0;
@@ -16,5 +18,5 @@
 }
 .borderline3{
   background-color:#B0C4DE;
-  height:2px
+  height:2px;
 }
